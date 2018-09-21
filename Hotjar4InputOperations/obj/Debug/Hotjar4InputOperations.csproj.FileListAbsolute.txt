@@ -1,0 +1,7 @@
+C:\Users\athomas1\source\repos\Hotjar4InputOperations\Hotjar4InputOperations\bin\Debug\Hotjar4InputOperations.exe.config
+C:\Users\athomas1\source\repos\Hotjar4InputOperations\Hotjar4InputOperations\bin\Debug\Hotjar4InputOperations.exe
+C:\Users\athomas1\source\repos\Hotjar4InputOperations\Hotjar4InputOperations\bin\Debug\Hotjar4InputOperations.pdb
+C:\Users\athomas1\source\repos\Hotjar4InputOperations\Hotjar4InputOperations\obj\Debug\Hotjar4InputOperations.csprojAssemblyReference.cache
+C:\Users\athomas1\source\repos\Hotjar4InputOperations\Hotjar4InputOperations\obj\Debug\Hotjar4InputOperations.csproj.CoreCompileInputs.cache
+C:\Users\athomas1\source\repos\Hotjar4InputOperations\Hotjar4InputOperations\obj\Debug\Hotjar4InputOperations.exe
+C:\Users\athomas1\source\repos\Hotjar4InputOperations\Hotjar4InputOperations\obj\Debug\Hotjar4InputOperations.pdb
